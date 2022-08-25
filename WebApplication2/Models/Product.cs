@@ -23,7 +23,7 @@ namespace MakeupStoreApi.Models
         public string Description { get; set; }
 
         [JsonPropertyName("rating")]
-        public object Rating { get; set; }
+        public float Rating { get; set; }
 
         [JsonPropertyName("category")]
         public string Category { get; set; }
@@ -32,6 +32,6 @@ namespace MakeupStoreApi.Models
         public string Product_Type { get; set; }
 
         [JsonPropertyName("tag_list")]
-        public List<string> Tag_List { get; set; }
+        public string[] Tag_List { get; set; }
     }
 }

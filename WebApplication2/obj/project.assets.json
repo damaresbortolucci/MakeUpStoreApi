@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\damar\\Documents\\1 - CURSOS TECNOLOGIA\\LETS CODE\\LETS CODE GIT\\Técnicas de Programação I\\MakeupStoreApi\\WebApplication2\\MakeupStoreApi.csproj",
+      "projectUniqueName": "C:\\Users\\damar\\Desktop\\MakeupStoreApi\\WebApplication2\\MakeupStoreApi.csproj",
       "projectName": "MakeupStoreApi",
-      "projectPath": "C:\\Users\\damar\\Documents\\1 - CURSOS TECNOLOGIA\\LETS CODE\\LETS CODE GIT\\Técnicas de Programação I\\MakeupStoreApi\\WebApplication2\\MakeupStoreApi.csproj",
+      "projectPath": "C:\\Users\\damar\\Desktop\\MakeupStoreApi\\WebApplication2\\MakeupStoreApi.csproj",
       "packagesPath": "C:\\Users\\damar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\damar\\Documents\\1 - CURSOS TECNOLOGIA\\LETS CODE\\LETS CODE GIT\\Técnicas de Programação I\\MakeupStoreApi\\WebApplication2\\obj\\",
+      "outputPath": "C:\\Users\\damar\\Desktop\\MakeupStoreApi\\WebApplication2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\damar\\AppData\\Roaming\\NuGet\\NuGet.Config",
